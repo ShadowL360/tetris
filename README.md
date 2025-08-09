@@ -23,5 +23,5 @@ Includes retro 8-bit style music and sound effects, animations, optional AI to p
 ## 🚀 How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tetris-2d.git
+   git clone https://github.com/ShadowL360/tetris.git
    cd tetris-2d
